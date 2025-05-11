@@ -13,17 +13,10 @@ To transform the recruitment landscape by building innovative solutions that hel
 - **Employer Solutions**: Custom recruitment solutions for businesses of all sizes
 
 
-## Getting Involved
-We welcome contributions from the community! If you're interested in contributing to any of our open-source projects:
-
-1. Check out our [Contribution Guidelines](link-to-contribution-guidelines)
-2. Review open issues in our repositories
-3. Join our [Developer Community](link-to-community)
-
 ## Connect With Us
-- **Website**: [skillangcareers.com](https://skillangcareers.com)
-- **LinkedIn**: [Skillang Careers](https://linkedin.com/company/skillang-careers)
-- **Twitter**: [@SkillangCareers](https://twitter.com/skillangcareers)
-- **Email**: developers@skillangcareers.com
+- **Website**: [skillangcareers.com](https://skillang.com)
+- **LinkedIn**: [Skillang](https://www.linkedin.com/company/skillang/)
+- **Instagram**: [SkillangCareers](https://www.instagram.com/skillang_careers/)
+- **Email**: support@skillang.com
 
 © 2025 Skillang Careers Private Limited. All rights reserved.
